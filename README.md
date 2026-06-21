@@ -20,4 +20,5 @@ Proyecto Gradle que extiende el TP de la Unidad 8 agregando repositorios JPA y u
 
 Si al ejecutar se produce un error, eliminá la carpeta data/ y volvé a intentarlo.
 
+Enlace del repositorio: https://github.com/Lucanms/segundo-parcial-programacion-3
 
